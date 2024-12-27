@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nabin\\.net class\\JobCandidate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CE007-936E-4ABE-8DED-F456D007F1B5}|JobCandidate\\JobCandidate.csproj|d:\\nabin\\.net class\\jobcandidate\\jobcandidate\\models\\candidatedetailsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CE007-936E-4ABE-8DED-F456D007F1B5}|JobCandidate\\JobCandidate.csproj|solutionrelative:jobcandidate\\models\\candidatedetailsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CE007-936E-4ABE-8DED-F456D007F1B5}|JobCandidate\\JobCandidate.csproj|d:\\nabin\\.net class\\jobcandidate\\jobcandidate\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CE007-936E-4ABE-8DED-F456D007F1B5}|JobCandidate\\JobCandidate.csproj|solutionrelative:jobcandidate\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CE007-936E-4ABE-8DED-F456D007F1B5}|JobCandidate\\JobCandidate.csproj|d:\\nabin\\.net class\\jobcandidate\\jobcandidate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC6CE007-936E-4ABE-8DED-F456D007F1B5}|JobCandidate\\JobCandidate.csproj|solutionrelative:jobcandidate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "D:\\Nabin\\.net class\\JobCandidate\\JobCandidate\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "JobCandidate\\Controllers\\CandidateController.cs",
+              "ToolTip": "D:\\Nabin\\.net class\\JobCandidate\\JobCandidate\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "JobCandidate\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAAAQAAABAMzMzM5MwwDoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:58:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nabin\\.net class\\JobCandidate\\JobCandidate\\appsettings.json",
+              "RelativeDocumentMoniker": "JobCandidate\\appsettings.json",
+              "ToolTip": "D:\\Nabin\\.net class\\JobCandidate\\JobCandidate\\appsettings.json",
+              "RelativeToolTip": "JobCandidate\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T06:04:51.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateDetailsInfo.cs",
+              "DocumentMoniker": "D:\\Nabin\\.net class\\JobCandidate\\JobCandidate\\Models\\CandidateDetailsInfo.cs",
+              "RelativeDocumentMoniker": "JobCandidate\\Models\\CandidateDetailsInfo.cs",
+              "ToolTip": "D:\\Nabin\\.net class\\JobCandidate\\JobCandidate\\Models\\CandidateDetailsInfo.cs",
+              "RelativeToolTip": "JobCandidate\\Models\\CandidateDetailsInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:59:43.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
